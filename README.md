@@ -123,10 +123,22 @@ Broadcast packets are sent to all devices in the network, commonly used in DHCP
 
 Payload Data:Binary data observed in packets.  
 
+protocols_srcdst_payload
+
+Screenshot 1  
+![protocols_srcdst_payload1](protocols_srcdst_payloadxtract.png)
+
+Screenshot 2  
+![protocols_srcdst_payload2](protocols_srcdst_payloadxtract2.png)
+
 payload contain actual transmitted data.  
 protocols like ICMP carry non-readable binary data  
 
+Screenshot 3  
+![protocols_srcdst_payload3](protocols_srcdst_payloadxtract3.png)
 
+Screenshot 4  
+![protocols_srcdst_payload4](protocols_srcdst_payloadxtract4.png)
 
 Learning Outcomes  
 
